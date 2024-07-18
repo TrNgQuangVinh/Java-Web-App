@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PRO + CSD Code">
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/controllers/LoginController.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/controllers/MainController.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/controllers/BottomOneController.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/users/UserError.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/users/UserDTO.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/web/user.jsp</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/shopping/ClothesDAO.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/controllers/LogoutController.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/web/getUser.jsp</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/web/login.jsp</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/web/viewCart.jsp</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/controllers/NewClass.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/web/createUser.jsp</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/web/admin.jsp</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/users/UserDAO.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/shopping/ClothesDTO.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/controllers/OrderController.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/utils/DBUtils.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/controllers/SearchController.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/controllers/CheckoutController.java</file>
+            <file>file:/D:/FPT%20UNIVERSITY/2024Summer/SWP391/Capstone/PRJ301_T3S1_JSTL/src/java/sample/shopping/CartDTO.java</file>
+        </group>
+    </open-files>
+</project-private>
